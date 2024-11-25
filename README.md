@@ -1,0 +1,2 @@
+# Javascriptt_forandwhile
+Javascriptt_forandwhile
